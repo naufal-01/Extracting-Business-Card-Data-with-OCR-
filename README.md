@@ -1,1 +1,2 @@
+#Extracting Business Card Data with OCR
 The process of extracting business card data using Optical Character Recognition (OCR) technology involves scanning business cards and converting the textual information into a digital format. This method leverages advanced OCR algorithms to identify and capture essential details such as names, job titles, company names, phone numbers, email addresses, and other relevant information. The digitized data can then be stored, organized, and used in various applications, enhancing efficiency and accuracy in managing contacts.
